@@ -1,0 +1,30 @@
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE 210 Practice projects/Hilo Project/bin/Debug/net6.0/Hilo Project
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE 210 Practice projects/Hilo Project/bin/Debug/net6.0/Hilo Project.deps.json
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE 210 Practice projects/Hilo Project/bin/Debug/net6.0/Hilo Project.runtimeconfig.json
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE 210 Practice projects/Hilo Project/bin/Debug/net6.0/Hilo Project.dll
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE 210 Practice projects/Hilo Project/bin/Debug/net6.0/Hilo Project.pdb
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE 210 Practice projects/Hilo Project/obj/Debug/net6.0/Hilo Project.csproj.AssemblyReference.cache
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE 210 Practice projects/Hilo Project/obj/Debug/net6.0/Hilo Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE 210 Practice projects/Hilo Project/obj/Debug/net6.0/Hilo Project.AssemblyInfoInputs.cache
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE 210 Practice projects/Hilo Project/obj/Debug/net6.0/Hilo Project.AssemblyInfo.cs
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE 210 Practice projects/Hilo Project/obj/Debug/net6.0/Hilo Project.csproj.CoreCompileInputs.cache
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE 210 Practice projects/Hilo Project/obj/Debug/net6.0/Hilo Project.dll
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE 210 Practice projects/Hilo Project/obj/Debug/net6.0/refint/Hilo Project.dll
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE 210 Practice projects/Hilo Project/obj/Debug/net6.0/Hilo Project.pdb
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE 210 Practice projects/Hilo Project/obj/Debug/net6.0/Hilo Project.genruntimeconfig.cache
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE 210 Practice projects/Hilo Project/obj/Debug/net6.0/ref/Hilo Project.dll
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/bin/Debug/net6.0/Hilo Project
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/bin/Debug/net6.0/Hilo Project.deps.json
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/bin/Debug/net6.0/Hilo Project.runtimeconfig.json
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/bin/Debug/net6.0/Hilo Project.dll
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/bin/Debug/net6.0/Hilo Project.pdb
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/Hilo Project.csproj.AssemblyReference.cache
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/Hilo Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/Hilo Project.AssemblyInfoInputs.cache
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/Hilo Project.AssemblyInfo.cs
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/Hilo Project.csproj.CoreCompileInputs.cache
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/Hilo Project.dll
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/refint/Hilo Project.dll
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/Hilo Project.pdb
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/Hilo Project.genruntimeconfig.cache
+/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-02/obj/Debug/net6.0/ref/Hilo Project.dll
